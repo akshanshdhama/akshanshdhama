@@ -4,7 +4,7 @@
 Specialized in **Azure Data Engineering**, **Databricks**, and **Power BI**  
 
 ## 🛠️ Tech Stack
-- ☁️ Azure (Data Factory, ADLS, Blob Storage, Synapse) | Fabric  
+- ☁️ Azure (Data Factory, ADLS, Blob Storage, SQL, Synapse) | Fabric  
 - 🔥 Databricks (PySpark, Delta Lake)  
 - 📊 Power BI (DAX, Data Modeling, Dashboards)  
 - 🐍 Python | 🗄️ SQL | 📈 SPSS  
